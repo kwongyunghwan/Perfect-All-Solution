@@ -1,0 +1,4 @@
+﻿  seasonswitch.c
+d:\동양미래대학교\cprogramming\ch6\10\seasonswitch.c(23): warning C4102: 'dafault': unreferenced label
+  10.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\10.exe
+  10.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\10.pdb (Full PDB)

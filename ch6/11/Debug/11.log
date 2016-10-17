@@ -1,0 +1,4 @@
+﻿  simplemaxof3.c
+d:\동양미래대학교\cprogramming\ch6\11\simplemaxof3.c(12): warning C4144: '>': relational expression as switch expression
+  11.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\11.exe
+  11.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\11.pdb (Full PDB)

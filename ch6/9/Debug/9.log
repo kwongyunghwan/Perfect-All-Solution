@@ -1,0 +1,4 @@
+﻿  switch.c
+d:\동양미래대학교\cprogramming\ch6\9\switch.c(7): warning C4101: 'result': unreferenced local variable
+  9.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\9.exe
+  9.vcxproj -> D:\동양미래대학교\Cprogramming\ch6\Debug\9.pdb (Full PDB)
